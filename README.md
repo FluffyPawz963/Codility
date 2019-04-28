@@ -1,0 +1,2 @@
+# Codility
+All codility training
